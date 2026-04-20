@@ -1,16 +1,37 @@
+# Angel Uribe
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Uribe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angel-uribe-pacheco-979859219/)
+
 ## Hi there 👋
 
-<!--
-**AcerMay/AcerMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity, and building scalable solutions. I enjoy working on projects that combine development and security, always aiming to create efficient and reliable systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science / Software Engineering background  
+- 🔐 Strong interest in Cybersecurity and Pentesting  
+- 🌐 Experience in Full Stack Development  
+- 🧠 Continuous learner focused on improving technical and analytical skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Javascript, Python, Java, C, C# 
+- **Frontend:** React
+- **Backend:** Spring  
+- **Databases:** PostgreSQL  
+- **Tools:** Postman, Nmap, Burp Suite, Netcat  
+
+## 📚 Currently Learning
+- Networking fundamentals (Cisco Networking Academy)
+- JavaScript (JSCamp – InfoJobs, Midudev)
+- Improving my English skills
+
+## 💬 Ask Me About
+- Cybersecurity  
+- Software development  
+- MMORPG
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/angel-uribe-pacheco-979859219/
+
+---
+
+⭐ *Always open to learning, collaborating, and building impactful solutions.*
