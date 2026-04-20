@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity, and building scalable solutions. I enjoy working on projects that combine development and security, always aiming to create efficient and reliable systems.
+I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity, and building scalable solutions. I enjoy working on projects that combine development and security.
 
 ## 🚀 About Me
 - 🎓 Computer Science / Software Engineering background  
@@ -34,4 +34,4 @@ I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity,
 
 ---
 
-⭐ *Always open to learning, collaborating, and building impactful solutions.*
+⭐ *Always open to learning, collaborating, and building.*
