@@ -12,16 +12,20 @@ I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity,
 - 🌐 Experience in Full Stack Development  
 - 🧠 Continuous learner focused on improving technical and analytical skills  
 
-## 🛠️ Tech Stack
+## 🛠️ Dev Stack
 - **Languages:** Javascript, Python, Java, C, C# 
-- **Frontend:** React
+- **Frontend:** React, Vue, HTML, CSS
 - **Backend:** Spring  
 - **Databases:** PostgreSQL  
-- **Tools:** Postman, Nmap, Burp Suite, Netcat  
+- **Tools:** Postman, Docker, Jenkins, Git
+## 🔐 Cybersecurity
+- **Tools:**
+  - Nmap, Wireshark, Burp Suite, OWASP ZAP, Netcat
+  - Kali Linux
 
 ## 📚 Currently Learning
-- Networking fundamentals (Cisco Networking Academy)
-- JavaScript (JSCamp – InfoJobs, Midudev)
+- Networking Basics (Cisco Networking Academy)
+- Full Stack Bootcamp (JSCamp – InfoJobs, Midudev)
 - Improving my English skills
 
 ## 🤝 Contributions
