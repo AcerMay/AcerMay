@@ -24,6 +24,12 @@ I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity,
 - JavaScript (JSCamp – InfoJobs, Midudev)
 - Improving my English skills
 
+## 🤝 Contributions
+
+- 🔗 [Web - Project Management Platform (CasaExperto)](https://github.com/umibana/cotizaciones-ce)  
+  Full Stack development with React (frontend), Spring (backend), and PostgreSQL (database). 
+  Developed and integrated key modules, automated processes via external APIs, and contributed to improving performance and scalability.
+  
 ## 💬 Ask Me About
 - Cybersecurity  
 - Software development  
