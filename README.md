@@ -1,6 +1,6 @@
 # Angel Uribe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Uribe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angel-uribe-pacheco-979859219/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Uribe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angel-uribe-pacheco/)
 
 ## Hi there 👋
 
@@ -40,7 +40,7 @@ I'm Angel Uribe, a Software Engineer passionate about technology, cybersecurity,
 - MMORPG
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/angel-uribe-pacheco-979859219/
+- LinkedIn: https://www.linkedin.com/in/angel-uribe-pacheco/
 
 ---
 
